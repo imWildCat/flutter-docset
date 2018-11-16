@@ -2,6 +2,10 @@
 
 Please note that is docset is not very optimal because the `dashing.json` is not perfectly written. Futher help needed.
 
+## This project is being merged into the official Fluuter repository
+
+Good news! This repo is going to be merged into the official Fluuter repository. For more details, please read: [https://github.com/flutter/flutter/pull/24374](https://github.com/flutter/flutter/pull/24374).
+
 ## How to use
 
 Open `Preferences` of the Dash menu, then navigate to the `Downloads` tab. After that, click the + button at the bottom of the window. Add this URL for 'Docset Feed URL':
