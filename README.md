@@ -2,7 +2,7 @@
 
 Please note that is docset is not very optimal because the `dashing.json` is not perfectly written. Futher help needed.
 
-## This project has been merged into the official Fluuter repository
+## This project has been merged into the official Fluter repository
 
 Good news! This repo has been merged into the official Fluuter repository. Please find usage of the official flutter docset at: [https://github.com/flutter/flutter/issues/9955#issuecomment-444702105](https://github.com/flutter/flutter/issues/9955#issuecomment-444702105)
 
